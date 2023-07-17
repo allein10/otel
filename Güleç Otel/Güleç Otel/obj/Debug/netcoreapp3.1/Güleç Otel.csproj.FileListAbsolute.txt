@@ -1,0 +1,84 @@
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\Güleç Otel.exe
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\Güleç Otel.deps.json
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\Güleç Otel.runtimeconfig.json
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\Güleç Otel.runtimeconfig.dev.json
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\Güleç Otel.dll
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\Güleç Otel.pdb
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\obj\Debug\netcoreapp3.1\Güleç Otel.csproj.AssemblyReference.cache
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\obj\Debug\netcoreapp3.1\Güleç_Otel.FrmYeniMusteri.resources
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\obj\Debug\netcoreapp3.1\Güleç_Otel.Properties.Resources.resources
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\obj\Debug\netcoreapp3.1\Güleç Otel.csproj.GenerateResource.cache
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\obj\Debug\netcoreapp3.1\Güleç Otel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\obj\Debug\netcoreapp3.1\Güleç Otel.AssemblyInfoInputs.cache
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\obj\Debug\netcoreapp3.1\Güleç Otel.AssemblyInfo.cs
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\obj\Debug\netcoreapp3.1\Güleç Otel.csproj.CoreCompileInputs.cache
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\obj\Debug\netcoreapp3.1\Güleç Otel.dll
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\obj\Debug\netcoreapp3.1\Güleç Otel.pdb
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\obj\Debug\netcoreapp3.1\Güleç Otel.genruntimeconfig.cache
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\obj\Debug\netcoreapp3.1\Güleç_Otel.FrmAdminGiris.resources
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\obj\Debug\netcoreapp3.1\Güleç_Otel.FrmAnaForm.resources
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\obj\Debug\netcoreapp3.1\Güleç_Otel.FrmOdalar.resources
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\obj\Debug\netcoreapp3.1\Güleç Otel.csproj.CopyComplete
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\obj\Debug\netcoreapp3.1\Güleç_Otel.FrmMusteriler.resources
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\obj\Debug\netcoreapp3.1\Güleç_Otel.FrmGelirGider.resources
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\obj\Debug\netcoreapp3.1\Güleç_Otel.FrmStoklar.resources
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\obj\Debug\netcoreapp3.1\Güleç_Otel.FrmFaturalar.resources
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aliri\source\repos\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\Güleç Otel.exe
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\Güleç Otel.deps.json
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\Güleç Otel.runtimeconfig.json
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\Güleç Otel.runtimeconfig.dev.json
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\Güleç Otel.dll
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\Güleç Otel.pdb
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\obj\Debug\netcoreapp3.1\Güleç Otel.csproj.AssemblyReference.cache
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\obj\Debug\netcoreapp3.1\Güleç_Otel.FrmAdminGiris.resources
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\obj\Debug\netcoreapp3.1\Güleç_Otel.FrmAnaForm.resources
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\obj\Debug\netcoreapp3.1\Güleç_Otel.FrmFaturalar.resources
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\obj\Debug\netcoreapp3.1\Güleç_Otel.FrmGelirGider.resources
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\obj\Debug\netcoreapp3.1\Güleç_Otel.FrmMusteriler.resources
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\obj\Debug\netcoreapp3.1\Güleç_Otel.FrmOdalar.resources
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\obj\Debug\netcoreapp3.1\Güleç_Otel.FrmStoklar.resources
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\obj\Debug\netcoreapp3.1\Güleç_Otel.FrmYeniMusteri.resources
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\obj\Debug\netcoreapp3.1\Güleç_Otel.Properties.Resources.resources
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\obj\Debug\netcoreapp3.1\Güleç Otel.csproj.GenerateResource.cache
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\obj\Debug\netcoreapp3.1\Güleç Otel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\obj\Debug\netcoreapp3.1\Güleç Otel.AssemblyInfoInputs.cache
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\obj\Debug\netcoreapp3.1\Güleç Otel.AssemblyInfo.cs
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\obj\Debug\netcoreapp3.1\Güleç Otel.csproj.CoreCompileInputs.cache
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\obj\Debug\netcoreapp3.1\Güleç Otel.csproj.CopyComplete
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\obj\Debug\netcoreapp3.1\Güleç Otel.dll
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\obj\Debug\netcoreapp3.1\Güleç Otel.pdb
+C:\Users\aliri\OneDrive\Masaüstü\Güleç Otel\Güleç Otel\obj\Debug\netcoreapp3.1\Güleç Otel.genruntimeconfig.cache
